@@ -8,4 +8,6 @@ I love tinkering with neural speech synthesis and large lanugage models :)
 
 If you want to get in touch, please send me a Twitter direct message to @felix_red_panda
 
+You can also visit my [GitHub](https://github.com/felix-red-panda) or [Huggingface](https://huggingface.co/felix-red-panda)
+
 ![profile picture](https://i.imgur.com/PQiHA0E.jpeg)
