@@ -1,0 +1,13 @@
+baseURL = 'https://felix-red-panda.github.io/'
+languageCode = 'en-us'
+title = "felix_red_pandas's blog"
+# title = "scratchpad blog"
+theme = 'hugo-bearblog'
+[params]
+hideMadeWithLine = true
+enableRobotsTXT = true
+author = "felix_red_panda"
+copyright = "Copyright © 2024, felix_red_panda"
+languageCode = "en-US"
+canonifyURLs = true
+# font_size=20
