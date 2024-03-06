@@ -6,6 +6,6 @@ I study computer science in Berlin, Germany
 
 I love tinkering with neural speech synthesis and large lanugage models :)
 
-If you want to get in touch, please send me a Twitter direct message @felix_red_panda
+If you want to get in touch, please send me a Twitter direct message to @felix_red_panda
 
-![my profile picture](static/profile.jpg)
+![img](https://i.imgur.com/PQiHA0E.jpeg)
