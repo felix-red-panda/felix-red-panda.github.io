@@ -10,7 +10,7 @@ tags = []
 
 *this post is still WIP*
 
-things to consider when building a GPU server for home:
+incomplete list of things to consider when building a GPU server for home:
 
 - PCIe
     - get enough PCIe bandwidth (both mainboard and CPU) (consumer CPUs typically only come with 16 lanes of PCIe in total, 1 GPU has 16 lanes, PCIe lanes can be shared by multiple GPUs but this decreases memory throughput significantly)
@@ -43,7 +43,7 @@ electricity:
     - buy NVMe SSDs for much faster model loading and storing (those cost about the same as SATA SSDs but are much faster, prefer PCIe gen 4 SSDs over PCIe gen 3 SSDs)
     - NVMe SSDs have much better access latencies than HDDs or SATA SDDs -> depending on how the dataset is stored on disk that can be an advantage
     - Consider creating regular backups to an external HDD to recover in case of hardware defects or user error (user error one of the leading reasons for data loss). On linux the btrfs file system provides a easy way to create incremental backups with the btrfs snapshots feature. Borg backup is a file system independent alternative to that
-    - storage speed is nice to have but in a lot cases slower storage will be more than sufficient as the throughput in MB/s of training achieved by home GPUs in tiny
+    - storage speed is nice to have but in a lot cases slower storage will be more than sufficient as the throughput in MB/s of training achieved by home GPUs is tiny. Reading and writing neural net checkpoints is by far the most storage bandwidth intensive task you're likely to encounter
 - software
     - consider something like Arch Linux or Manjaro Linux to have an easy time with the CUDA setup
     - use ssh + VS Code ssh access for local network access to the server
