@@ -8,4 +8,4 @@ I love tinkering with neural speech synthesis and large lanugage models :)
 
 If you want to get in touch, please send me a Twitter direct message to @felix_red_panda
 
-![img](https://i.imgur.com/PQiHA0E.jpeg)
+![profile picture](https://i.imgur.com/PQiHA0E.jpeg)
