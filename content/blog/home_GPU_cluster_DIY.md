@@ -9,6 +9,7 @@ tags = []
 +++
 
 *this post is still WIP*
+*the following may contain errors, please let me know on [Twitter](https://twitter.com/felix_red_panda)*
 
 incomplete list of things to consider when building a GPU server for home:
 
