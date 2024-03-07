@@ -14,9 +14,13 @@ tags = []
 incomplete list of things to consider when building a GPU server for home:
 
 - PCIe
+    - PCIe is a [bus](https://en.wikipedia.org/wiki/Bus_(computing)) meaning that multiple devices can share a the same bandwidth, one PCIe lane can have multiple devices connected, those devices then share the bandwidth if multiple device want to communicate at the same time
+    - PCIe speed is organized in lanes, one lane PCIe gen 4 is 1GB/s of bandwith, so 16 lanes (16 lanes are the maximum a PCIe connctor can consist of)
     - get enough PCIe bandwidth (both mainboard and CPU) (consumer CPUs typically only come with 16 lanes of PCIe in total, 1 GPU has 16 lanes, PCIe lanes can be shared by multiple GPUs but this decreases memory throughput significantly)
     - keep the generation of PCIe in mind
     - keep the configuration of the PCIe lanes and their allocation in the Motherboard bios in mind
+    - PCIe Gen 4 is twice the speed of PCIe Gen3 - so you can use half the lanes for the same speed, PCIe 5 has 4 times the speed off PCIE gen 4 and 8 times the speed of pcie gen 3
+    - PCIe 3 are almost universally supported even on old hardware
 electricity:
     - if you're in the US/Canada/Japan, keep in mind that you can't draw more than ~1600W from a single circuit continuously: (16A current limit for a typical US circuit * 120V mains voltage * 80% max continuous load = 1536 Watts). In most of the rest of the world this limit is ~2x higher (with ~230V grid voltage) and so in practice very hard to exceed, so don't worry too much about it (you can easily find out your grid local grid voltage with a google search)
     - keep local electricity prices in mind (running such a GPU rig 24/7 can be very expensive)
