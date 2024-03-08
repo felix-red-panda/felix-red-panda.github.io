@@ -41,7 +41,7 @@ incomplete list of things to consider when building a GPU server for home use:
 - keep cooling requirements in mind:
     - if you're dumping >1KW of heat continously (if you have 3 or more RTX 4090/3090 GPUs) in the air you need a plan what to do with the heat, especially if you're in a single room (maybe opening a window is enough? But plan for that)
     - monitor the GPU die temperatures with tools like nvidia-smi
-    - monitor the GPU memory temperatures seperately <link to tool>
+    - monitor the GPU memory temperatures seperately with a [tool like this](https://github.com/olealgoritme/gddr6)
 
 - GPU choice
     - Nvidia GPUs are the default choice (unless you like tinkering with software to make things work) Basically all software for deep learning assumes you have Nvidia GPUs
