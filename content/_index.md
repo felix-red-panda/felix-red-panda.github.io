@@ -10,7 +10,7 @@ If you want to get in touch, please send me a Twitter direct message to @felix_r
 
 You can also visit my [GitHub](https://github.com/felix-red-panda) or [Huggingface](https://huggingface.co/felix-red-panda)
 
-![profile picture](/image/profile.jpg)
+![profile picture](/profile.jpg)
 <!-- ![profile picture](https://i.imgur.com/PQiHA0E.jpeg) -->
 <!-- ![profile picture](/assets/profile.jpg) -->
 <!-- https://felix-red-panda.github.io/assets/profile.jpg -->
