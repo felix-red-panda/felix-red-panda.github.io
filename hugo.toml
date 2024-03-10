@@ -11,5 +11,5 @@ copyright = "Copyright © 2024, felix_red_panda"
 languageCode = "en-US"
 canonifyURLs = true
 # font_size=20
-favicon = "assets/favicon.ico"
+favicon = "favicon.ico"
 staticDir = ['static']
