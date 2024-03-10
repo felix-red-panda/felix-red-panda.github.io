@@ -1,4 +1,4 @@
-baseURL = 'https://felix-red-panda.github.io/'
+baseURL = 'https://felix-red-panda.github.io'
 languageCode = 'en-us'
 title = "felix_red_panda's blog"
 # title = "scratchpad blog"
@@ -12,3 +12,4 @@ languageCode = "en-US"
 canonifyURLs = true
 # font_size=20
 favicon = "assets/favicon.ico"
+staticDir = ['static']

@@ -1,0 +1,2 @@
+User-Agent: *
+Sitemap: https://felix-red-panda.github.io/sitemap.xml
