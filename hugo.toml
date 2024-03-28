@@ -1,6 +1,6 @@
 baseURL = 'https://felix-red-panda.github.io'
 languageCode = 'en-us'
-title = "felix_red_panda's blog"
+title = "felix_red_panda"
 # title = "scratchpad blog"
 theme = 'hugo-bearblog'
 [params]
@@ -13,3 +13,5 @@ canonifyURLs = true
 # font_size=20
 favicon = "favicon.ico"
 staticDir = ['static']
+[markup.goldmark.renderer]
+unsafe = true
