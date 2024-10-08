@@ -4,7 +4,7 @@ I'm felix_red_panda, [I write mostly on twitter](https://twitter.com/felix_red_p
 
 I currently as LLM inference engineer at Aleph Alpha in Berlin, Germany
 
-I love tinkering/training neural speech synthesis and large lanugage models :) (fun fact: this last edit was made by a custom code LLM that directly outputs git diffs)
+I love tinkering/training neural speech synthesis and large lanugage models (fun fact: this last edit was made by a custom code LLM that directly outputs git diffs)
 
 If you want to get in touch, please send me a Twitter direct message to @felix_red_panda
 
