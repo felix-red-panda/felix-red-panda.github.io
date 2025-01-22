@@ -1,6 +1,6 @@
 
 
-I'm felix_red_panda, [I write mostly on X](https://x.com/felix_red_panda) but also long form on here occasionally
+I'm felix_red_panda, [I write mostly on X](https://x.com/felix_red_panda) but also in long form on here occasionally
 
 I currently work as AI Research Engineer at Prime Intellect
 
